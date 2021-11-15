@@ -1,2 +1,2 @@
 # frontend-code
-This contains practice frontend course
+This contains practice frontend code
